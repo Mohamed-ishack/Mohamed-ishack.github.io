@@ -91,7 +91,11 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
+<<<<<<< HEAD
     background: url(/portfolio11/images/myimg-Picsart-BackgroundChanger.png);
+=======
+    background: url(/images/myimg-Picsart-BackgroundChanger.png);
+>>>>>>> ab36e9b852d447b6fab06b474a796f7e92969afb
     background-size: cover;
     background-position: center;
 }
